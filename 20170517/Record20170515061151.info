@@ -1,0 +1,119 @@
+BEGIN_HEADER
+	Header Version    1
+	Device Type    DAQ
+	Device Version Number    V1.0
+	Serial Number    123456
+END_HEADER
+BEGIN_INFO
+	Info Version    1
+	BEGIN_DATE
+		Date Version    1
+		Year    2017
+		Month    05
+		Day Of Week    1
+		Day    15
+		Hour    06
+		Minute    11
+		Second    51
+	END_DATE
+	HostID    
+	Project    Project20170515061151
+	Measurement    Measurement20170515061151
+	Number Of Tracks    4
+	Sampling Frequency    51200Hz
+	Data Format    RawDataBlock
+	Block Size    1024
+	Number Of Point    768000
+	BEGIN_TRACK
+		Track Version    1
+		Input Number    1
+		Name    Ch.1
+		Input Range    10V
+		Coupling    AC
+		Current    -
+		BEGIN_CORRECTION
+			Correction Version    1
+			Gain Correction    12.5
+			Offset Correction    0
+			Number Of Frequency Coefficients    8
+			Frequency Correction    8
+			Frequency Coefficient 1 0
+			Frequency Coefficient 2 0
+			Frequency Coefficient 3 0
+			Frequency Coefficient 4 0
+			Frequency Coefficient 5 0
+			Frequency Coefficient 6 0
+			Frequency Coefficient 7 0
+			Frequency Coefficient 8 0
+		END_CORRECTION
+	END_TRACK
+	BEGIN_TRACK
+		Track Version    1
+		Input Number    2
+		Name    Ch.2
+		Input Range    10V
+		Coupling    AC
+		Current    -
+		BEGIN_CORRECTION
+			Correction Version    1
+			Gain Correction    12.5
+			Offset Correction    0
+			Number Of Frequency Coefficients    8
+			Frequency Correction    8
+			Frequency Coefficient 1 0
+			Frequency Coefficient 2 0
+			Frequency Coefficient 3 0
+			Frequency Coefficient 4 0
+			Frequency Coefficient 5 0
+			Frequency Coefficient 6 0
+			Frequency Coefficient 7 0
+			Frequency Coefficient 8 0
+		END_CORRECTION
+	END_TRACK
+	BEGIN_TRACK
+		Track Version    1
+		Input Number    3
+		Name    Ch.3
+		Input Range    10V
+		Coupling    AC
+		Current    -
+		BEGIN_CORRECTION
+			Correction Version    1
+			Gain Correction    12.5
+			Offset Correction    0
+			Number Of Frequency Coefficients    8
+			Frequency Correction    8
+			Frequency Coefficient 1 0
+			Frequency Coefficient 2 0
+			Frequency Coefficient 3 0
+			Frequency Coefficient 4 0
+			Frequency Coefficient 5 0
+			Frequency Coefficient 6 0
+			Frequency Coefficient 7 0
+			Frequency Coefficient 8 0
+		END_CORRECTION
+	END_TRACK
+	BEGIN_TRACK
+		Track Version    1
+		Input Number    4
+		Name    Ch.4
+		Input Range    10V
+		Coupling    AC
+		Current    -
+		BEGIN_CORRECTION
+			Correction Version    1
+			Gain Correction    12.5
+			Offset Correction    0
+			Number Of Frequency Coefficients    8
+			Frequency Correction    8
+			Frequency Coefficient 1 0
+			Frequency Coefficient 2 0
+			Frequency Coefficient 3 0
+			Frequency Coefficient 4 0
+			Frequency Coefficient 5 0
+			Frequency Coefficient 6 0
+			Frequency Coefficient 7 0
+			Frequency Coefficient 8 0
+		END_CORRECTION
+	END_TRACK
+END_INFO
